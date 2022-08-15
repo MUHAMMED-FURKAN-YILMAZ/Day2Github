@@ -20,4 +20,7 @@ public class Day2GitGithub {
      5- git pull --> remote dosyalarimizi locale cekmemizi saglar
 
      */
+    public static void main(String[] args) {
+        System.out.println("branch deneme 1");
+    }
 }
