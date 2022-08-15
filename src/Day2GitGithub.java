@@ -14,7 +14,10 @@ public class Day2GitGithub {
                    git remote add origin address
                    git push -u origin master
           Not: Yukaridaki iki komutu tek sefer kullandiktan sonra 2. commitlerim icin sadece git push kullaniriz
-                         
+
+          Not: git log --oneline --> Commitlerdeki-Version'lardaki durumu gosterir
+
+     5- git pull --> remote dosyalarimizi locale cekmemizi saglar
+
      */
-    // deneme satiri
 }
