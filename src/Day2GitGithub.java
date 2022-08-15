@@ -16,5 +16,4 @@ public class Day2GitGithub {
           Not: Yukaridaki iki komutu tek sefer kullandiktan sonra 2. commitlerim icin sadece git push kullaniriz
                          
      */
-    // deneme satiri
 }
